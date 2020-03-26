@@ -5,4 +5,4 @@ This project is simply an experiment to see if I can make a program that can Ide
 ### Technologies:
 * Jupyter Notebook
 * Python
-* Printer & Scanner
+
